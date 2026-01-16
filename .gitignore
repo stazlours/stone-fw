@@ -1,0 +1,15 @@
+# Composer vendor
+/vendor/
+
+# Logs et cache
+/storage/logs/
+storage/cache/
+
+# IDE / OS
+/.vscode/
+/.idea/
+/*.swp
+*.DS_Store
+
+# PHPStorm / temp
+/.phpstorm.meta.php

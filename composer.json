@@ -1,0 +1,19 @@
+{
+    "name": "stazlours/stone-fw",
+    "description": "Un framework PHP léger, pédagogique et scalable",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Stazlours\\StoneFw\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kayden Staz",
+            "email": "kadensomma@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
